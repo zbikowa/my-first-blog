@@ -25,8 +25,7 @@ SECRET_KEY = '7fy3z6+$n#3t_5sh(ozedy3@r+t4xixst9lwz%2ex%mq%emqs$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
-
+ALLOWED_HOSTS = ['zbik.pythonanywhere.com']
 
 # Application definition
 
